@@ -1,1 +1,1 @@
-# Class-Aware-Multistep-Contrastive-Representation-Learning
+# Multistep-Contrastive-Representation-Learning
